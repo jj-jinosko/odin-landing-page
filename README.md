@@ -28,5 +28,13 @@ Odin Landing Page is a website that will display
 - Set up repository
 - create README, index, css files
 - auto-fill html (!) and link to css file
+- add header containers and content
+- add header font
+    - access https://fonts.google.com/specimen/Roboto
+    - select families: light italic, regular, bold
+    - html: embed font by copying link to head of html
+    - css: specify font-family as directed
+
+
 
 

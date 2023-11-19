@@ -1,5 +1,7 @@
 * {
     box-sizing: border-box; /*dimensions include borders, padding */
+    font-family: 'Roboto', sans-serif;
+    font-size: 32;
 }
 
 .header {
