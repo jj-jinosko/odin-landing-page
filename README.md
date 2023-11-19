@@ -16,4 +16,9 @@ Odin Landing Page is a website that will display
 ![theme](./img/odin-landing-page-theme.png)
 
 ### TODO:
-- 
+- Header
+- Description
+- Info
+- Quote
+- Footer
+
