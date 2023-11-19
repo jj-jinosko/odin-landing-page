@@ -22,3 +22,11 @@ Odin Landing Page is a website that will display
 - Quote
 - Footer
 
+
+## Steps Taken
+
+- Set up repository
+- create README, index, css files
+- auto-fill html (!) and link to css file
+
+

@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box; /*dimensions include borders, padding */
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+
+    padding: 20px;
+    border: 5px solid black;
+    margin: 20px;
+}
+
+.header-logo {
+
+}
+
+.header-links{
+
+}
+
