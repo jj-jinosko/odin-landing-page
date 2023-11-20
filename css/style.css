@@ -14,17 +14,21 @@
 
 nav {
     /* border: 2px solid pink; */
+    padding: 0 100px;
 }
 
 nav ul {
+    color: #e5e7eb;
+    font-size: 18px;
+    
     list-style-type: none; /*remove bullets from list*/
-
+    padding: 20px 0;
+    /* border: 2px solid purple; */
+    
     display: flex;
     /* justify-content: space-between; */
     gap: 12px;
-    border: 2px solid purple;
 }
-
 
 nav, .hero, .footer {
     color: #f9faf8;
@@ -32,6 +36,8 @@ nav, .hero, .footer {
 }
 
 .logo {
+    color: #f9faf8;
+    font-size: 24px;
     margin-right: auto;
 }
 

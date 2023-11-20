@@ -29,7 +29,10 @@ Odin Landing Page is a website that will display
 - Set up repository
 - create README, index, css files
 - auto-fill html (!) and link to css file
-- add header containers and content
+- add navbar
+    - nav w list of links
+    - links arranged w flexbox
+    - logo link kept to left w margin-right: auto
 - add header font
     - access https://fonts.google.com/specimen/Roboto
     - select families: light italic, regular, bold
@@ -37,5 +40,8 @@ Odin Landing Page is a website that will display
     - css: specify font-family as directed
 - add hero containers and content
 
+- Overall Formatting
+    - keep background color against edges w all margin and padding set to 0 (overrides default browser values)
+    - pad sections away from edges w set left/right padding
 
 
