@@ -17,11 +17,12 @@ Odin Landing Page is a website that will display
 
 ### TODO:
 - Header
-- Description
+- Hero
 - Info
 - Quote
 - Footer
 
+? I'm not sure if 'header' and 'hero' should be in one 'section'?
 
 ## Steps Taken
 
@@ -34,7 +35,7 @@ Odin Landing Page is a website that will display
     - select families: light italic, regular, bold
     - html: embed font by copying link to head of html
     - css: specify font-family as directed
-
+- add hero containers and content
 
 
 
