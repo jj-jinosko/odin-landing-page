@@ -9,18 +9,18 @@
 }
 
 /*section padding*/
-nav, .hero-section, .info, .quote, footer {
+.header, .hero, .info, .quote, footer {
     padding: 0 100px;
 }
 
 /*section colors*/
-nav, .hero-section, .footer {
+.header, .hero, .footer {
     color: #f9faf8;
     background-color:#1f2937;
 }
 
-/*-----------NAVBAR----------------------*/
-nav ul {
+/*-----------HEADER----------------------*/
+.header ul {
     color: #e5e7eb;
     font-size: 18px;
     
@@ -40,7 +40,7 @@ nav ul {
 }
 
 /*------------HERO-----------------------*/
-.hero-section {
+.hero {
     display: flex;
     justify-content: center;
     /* overflow: hidden; */
