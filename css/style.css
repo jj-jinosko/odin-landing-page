@@ -135,3 +135,25 @@
     height: 150px;
     width: 150px;
 }
+
+/*-----------QUOTE---------------------*/
+.quote {
+    background-color: #e5e7eb;
+
+    padding: 50px 300px;
+}
+
+.quote-txt {
+    color: #1f2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: light;
+}
+
+.quote-credit {
+    color: #1f2937;
+    font-size: 20px;
+    font-weight: bold;
+    text-align:right;
+    
+}
