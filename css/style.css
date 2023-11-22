@@ -84,3 +84,42 @@
 
 }
 
+/*------------INFO-----------------------*/
+
+.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+
+    padding: 12px;
+}
+
+.info-header {
+    color: #1f2937;
+    font-size: 36px;
+}
+
+.info-boxes {
+    color: #1f2937;
+    font-size: 16px;
+
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.info-box { 
+    max-width: 200px;
+    
+}
+
+.info-img {
+    border: 2px solid #3882f6;
+    border-radius: 6px;
+    padding: 12px;
+
+    /* height: 120px;
+    width: 120px; */
+}

@@ -44,4 +44,6 @@ Odin Landing Page is a website that will display
     - keep background color against edges w all margin and padding set to 0 (overrides default browser values)
     - pad sections away from edges w set left/right padding
 
+- add info section containers
+
 
