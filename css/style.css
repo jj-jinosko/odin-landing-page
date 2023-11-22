@@ -32,10 +32,8 @@
     
     list-style-type: none; /*remove bullets from list*/
     padding: 20px 0;
-    /* border: 2px solid purple; */
     
     display: flex;
-    /* justify-content: space-between; */
     gap: 12px;
 }
 
@@ -173,10 +171,24 @@
     justify-content: space-around;
 }
 
-.action.txt {
-
+.action .txt h1 {
+    color: #f9faf8;
+    font-size: 24px;
 }
 
-.action.button {
-    
+.action .txt p {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.action button {
+    color: #f9faf8;
+    font-size: 18px;
+
+    background-color: #3882f6;
+    border-color: transparent;
+
+    height: 30px;
+    width: 100px;
+    border-radius: 6px;
 }
