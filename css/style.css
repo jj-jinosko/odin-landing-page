@@ -20,6 +20,9 @@
 }
 
 /*-----------HEADER----------------------*/
+.header {
+    padding-bottom: 30px;
+}
 .header ul {
     color: #e5e7eb;
     font-size: 18px;
@@ -43,16 +46,41 @@
 .hero {
     display: flex;
     justify-content: center;
-    /* overflow: hidden; */
+    
+    padding-bottom: 30px;
 }
 
 .hero-txt {
     flex: 1 1 0; /*If you want your elements to be completely even, you can set flex-basis: 0*/
     min-width: 0;
+
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.hero-txt p {
+    color: #f9faf8;
+    font-size: 48px;
+}
+
+.hero-txt div {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.hero-txt button {
+    color: #f9faf8;
+    background-color: #3882f6;
+    border-color: transparent;
+
+    width: 80px;
+    border-radius: 6px;
 }
 
 .hero-img {
     flex: 1 1 0;
     min-width: 0; /*by default, a flex item can't shrink below it's actual size*/
+
 }
 
