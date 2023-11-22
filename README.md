@@ -20,6 +20,7 @@ Odin Landing Page is a website that will display
 - Hero
 - Info
 - Quote
+- Action
 - Footer
 
 ? I'm not sure if 'header' and 'hero' should be in one 'section'?

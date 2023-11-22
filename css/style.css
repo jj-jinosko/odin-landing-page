@@ -9,8 +9,11 @@
 }
 
 /*section padding*/
-.header, .hero, .info, .quote, footer {
+.header, .hero, .info, .quote, .footer {
     padding: 0 200px;
+}
+.action {
+    margin: 30px 200px;
 }
 
 /*section colors*/
@@ -155,5 +158,25 @@
     font-size: 20px;
     font-weight: bold;
     text-align:right;
+    
+}
+
+/*-----------ACTION---------------------*/
+
+.action {
+    background-color: #3882f6;
+
+    padding: 30px;
+
+    border-radius:6px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.action.txt {
+
+}
+
+.action.button {
     
 }
