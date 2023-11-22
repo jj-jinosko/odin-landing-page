@@ -15,6 +15,10 @@ Odin Landing Page is a website that will display
 ## Theme
 ![theme](./img/odin-landing-page-theme.png)
 
+## Result 
+![result](./img/result.png) 
+- improve accuracy by increasing padding sizes for sections 
+
 ### TODO:
 - Header
 - Hero
@@ -22,8 +26,6 @@ Odin Landing Page is a website that will display
 - Quote
 - Action
 - Footer
-
-? I'm not sure if 'header' and 'hero' should be in one 'section'?
 
 ## Steps Taken
 
