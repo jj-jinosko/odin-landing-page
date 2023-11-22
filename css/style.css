@@ -47,12 +47,10 @@
 }
 
 .hero-txt {
-    flex: 1 1 auto;
-    border: 2px solid white;
+    flex: 1 1 0;
 }
 
 .hero-img {
-    flex: 1 1 auto;
-    border: 2px solid white;
+    flex: 1 1 0;
 }
 
